@@ -3,8 +3,30 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 About Me
+- 👨‍💻 I'm a **Flutter Developer** with a passion for building beautiful, responsive, and user-friendly mobile applications.
+- 🌱 I’m currently learning **advanced state management in Flutter** and exploring **backend development**.
+- 💡 Fun fact: I love solving problems and turning ideas into reality through code.
 
+---
+
+### 🛠️ Skills
+- **Mobile Development**: Flutter, Dart
+- **State Management**: Provider, Riverpod, Bloc
+- **Version Control**: Git, GitHub
+- **Tools**: Android Studio, VS Code, Firebase
+- **Soft Skills**: Problem-solving, Team Collaboration, Time Management
+
+---
+
+### 🚀 Projects
+- **[E-Commerce App](https://github.com/korya25/ecommerce-app)**: A fully functional e-commerce app built with Flutter and Firebase.
+- **[Weather App](https://github.com/korya25/weather-app)**: A real-time weather app using OpenWeatherMap API.
+- **[Todo App](https://github.com/korya25/todo-app)**: A simple yet powerful task management app.
+
+---
+
+### 📊 GitHub Stats
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=korya25&label=Profile%20views&color=0e75b6&style=flat" alt="korya25" />
 </p>
@@ -26,15 +48,7 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 💻 I'm a **Flutter Developer** with a passion for building beautiful and functional mobile applications.
-- 📫 How to reach me: **mahmoudmohamed01559@gmail.com**
-
----
-
 ### 🌐 Connect with Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/mahmoud-mohamed-5938ab28a" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -47,7 +61,6 @@
 ---
 
 ### 🛠️ Languages and Tools
-
 <p align="left">
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" />
@@ -60,7 +73,11 @@
 ---
 
 ### 📈 GitHub Activity
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=korya25&theme=github-compact" alt="GitHub Activity Graph" />
 </p>
+
+---
+
+### 🤝 Let's Collaborate
+I'm always open to collaborating on interesting projects. Feel free to reach out if you have an idea or need help!
