@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Mohamed</h1>
-<h3 align="center">A passionate Flutter developer from Egypt</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mahmoud+Mohamed;A+Passionate+Flutter+DeveloperFrom+Egypt" alt="Typing SVG" />
+</h1>
 
 ---
+
 
 ### 🚀 About Me
 - 👨‍💻 I'm a **Flutter Developer** with a passion for building beautiful, responsive, and user-friendly mobile applications.
@@ -74,7 +76,7 @@
 
 ### 📈 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=korya25&theme=github-compact" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=korya25&theme=github-dark&bg_color=0D1117&hide_border=true&area=true&area_color=2EA043&line=58A6FF&point=58A6FF&color=58A6FF" alt="GitHub Activity Graph" />
 </p>
 
 ---
